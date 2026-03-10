@@ -24,7 +24,6 @@ on:
           - Nanopi-r2c
           - Nanopi-r2c Plus
           - Nanopi-r2s
-          - Nanopi-r2s Plus
           - Nanopi-r3s
           - Nanopi-r4s
           - Nanopi-r5s
@@ -98,7 +97,6 @@ jobs:
               "Nanopi-r2c",
               "Nanopi-r2c Plus",
               "Nanopi-r2s",
-              "Nanopi-r2s Plus",
               "Nanopi-r3s",
               "Nanopi-r4s",
               "Nanopi-r5s",
